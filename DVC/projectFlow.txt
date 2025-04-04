@@ -2,3 +2,7 @@ in this particular file, We will write the proper flow of the exexution
 
 1. Create Git Repo and clone it in local 
 2. create app.py in local and save a new csv file to the data folder 
+3. Do a git commit Push before DVC 
+
+# Do pip install dvc (before amything)
+4. Now We Do "dvc init"  (creates .dvcignore, .dvc )
