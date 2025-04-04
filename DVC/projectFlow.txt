@@ -1,0 +1,4 @@
+in this particular file, We will write the proper flow of the exexution 
+
+1. Create Git Repo and clone it in local 
+2. create app.py in local and save a new csv file to the data folder 
